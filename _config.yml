@@ -7,8 +7,8 @@ description: Personal profile
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
-picture: https://www.lshtm.ac.uk/sites/default/files/styles/profile_full_image/public/profile_image/james_munday.jpg?itok=bMPCEciQ
+external-image: false
+picture: Screenshot_20190829-201631~2.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
