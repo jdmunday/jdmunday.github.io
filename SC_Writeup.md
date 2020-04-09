@@ -31,9 +31,9 @@ $$ P_{ob} = 1 - 1/R_{0} $$
 
 and the probability of the member school j in each contact pair being infected $P_{ob}$ is, 
 
-$$ P^I_{j} = R(\infty) = 1 - e^{(R_{0}R(\inf))} $$
+$$ P^I_{j} = R(\infty) = 1 - e^{(R_{0}R(\infty))} $$
 
-Here, $R_{0}$ is the basic reproduction number within school, $R(\inf)$ is the final outbreak size of the school and $q$ is the probability of transmission between children in the same household.
+Here, $R_{0}$ is the basic reproduction number within school, $R(\infty)$ is the final outbreak size of the school and $q$ is the probability of transmission between children in the same household.
 
 ### Simulations on the network
 
