@@ -1,7 +1,7 @@
 
 # Evaluation of the impact of targetted school closures on the spread of infectious disease outbreaks using a network of schools: The Netherlands
 
-**Authors:** James D Munday, Mark Meurs, Erik Flure, Sam Abbott, Joel Hellewell, NCov Working Group, Sebastian Funk, John Edmunds, Jacco Wallinga, Albert Jan van Hoek
+**Authors:** James D Munday, Marc Meurs, Erik Fleur, Sam Abbott, Joel Hellewell, NCov Working Group, Sebastian Funk, John Edmunds, Jacco Wallinga, Albert Jan van Hoek
 
 
 ## Introduction
