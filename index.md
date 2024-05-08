@@ -4,7 +4,7 @@ Epidemics have a profound impact on health and society, control measures can als
 # Contexts 
 **Postdoctoral researcher** Department of Biosystems Science and Engineering (D-BSSE) ETH Zurich (2023 - Present) \
 **Research Fellow** Department of infectious disease Epidemiology, London School of Hygiene and Tropical Medicine (2020 - 2022) \
-**PhD Candidate** Department of infectious disease Epidemiology, London School of Hygiene and Tropical Medicine (2016 - 2020) \
+**PhD Candidate** Department of infectious disease Epidemiology, London School of Hygiene and Tropical Medicine (2016 - 2020)
 
 # Pre-prints
 1. **Munday JD**, Rosello A, Edmunds WJ, Funk S. (2024). Forecasting the spatial spread of an Ebola epidemic in real-time: comparing predictions of mathematical models and experts. *MedRxiv*, 2024-03. 
