@@ -27,7 +27,6 @@ Epidemics have a profound impact on health and society, control measures can als
 1. Abbott S, Hellewell J, **Munday JD**, Funk S, CMMID nCoV working group, et al. (2020). The transmissibility of novel Coronavirus in the early stages of the 2019-20 outbreak in Wuhan: Exploring initial point-source exposure sizes and durations using scenario analysis. *Wellcome Open Research*, 5.
 1. Gostic KM, McGough L, Baskerville EB, Abbott S, Joshi K, Tedijanto C... **Munday JD**, et al. (2020). Practical considerations for measuring the effective reproductive number, R_t. *PLoS Computational Biology*, 16(12), e1008409.
 1. Abbott S, Hellewell J, Thompson RN, Sherratt K, Gibbs HP, Bosse NI, **Munday JD**, Meakin S, Doughty EL, Chun JY, et al. (2020). Estimating the time-varying reproduction number of SARS-CoV-2 using national and subnational case counts. *Wellcome Open Research*, 5(112), 112.
-1. Hellewell J, Abbott S, Gimma A, Bosse NI, Jarvis CI, Russell TW, **Munday JD**, Kucharski AJ, Edmunds WJ, Sun F, et al. (2020). Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts. *The Lancet Global Health*, 8(4), e488-e496.
 1. **Munday JD**, van Hoek AJ, Edmunds WJ, Atkins KE. (2018). Quantifying the impact of social groups and vaccination on inequalities in infectious diseases using a mathematical model. *BMC Medicine*, 16, 1-12.
 
 # Conferences
