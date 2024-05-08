@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 h1, h2, h3, h4, h5, h6 {
-  color:red;
+  color:#71a38d;
   margin:0 0 20px;
+}
+a {
+  color:#71a38d;
+  text-decoration:none;
+}
+a:hover, a:focus {
+  color:#7dd1ac;
+  font-weight: bold;
 }
