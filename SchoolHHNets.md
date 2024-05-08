@@ -12,7 +12,6 @@ category: project
 author: jamesmunday
 externalLink: false
 ---
-# Using school-household networks to understand transmission dynamics
 
 
 ## Motivation
