@@ -31,7 +31,7 @@ Epidemics have a profound impact on health and society, control measures can als
 1. Hellewell J, Abbott S, Gimma A, Bosse NI, Jarvis CI, Russell TW, **Munday JD**, Kucharski AJ, Edmunds WJ, Sun F, et al. (2020). Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts. *The Lancet Global Health*, 8(4), e488-e496.
 1. **Munday JD**, van Hoek AJ, Edmunds WJ, Atkins KE. (2018). Quantifying the impact of social groups and vaccination on inequalities in infectious diseases using a mathematical model. *BMC Medicine*, 16, 1-12.
 
-# Conference presentations
+# Conferences
 
 ## Scheduled
 1. Forecasting the spatial spread of an Ebola epidemic in real-time: comparing predictions of mathematical models and experts (Oral Presentation) *GEOMED2024*, Brussels, BE
