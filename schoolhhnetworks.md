@@ -34,7 +34,7 @@ During the COVID-19 pandemic we used this framework to evaluate risk of reopenin
 We also applied the method to study Measles in the Netherlands, where unvaccinated children cluster strongly within schools, particularly those with an affiliation to Anthroposophic and Orthodox Protestant communities. We showed that dispite very high uptake in the rest of the population, school and household contacts are sufficient to explain differences between the large outbreak observed in 2013/14 vs smaller outbreaks in previous years based on the school that the outbreak was initiated. See our preprint in [*MedRXiv*](https://www.medrxiv.org/content/10.1101/2024.02.20.24302866v1.article-info).
 
 
-![alt text](../Figures/GiantComponent.jpg "Title") 
+![alt text](../Figures/MeaslesOutbreaks.jpg "Title") 
 <br>
 
 
