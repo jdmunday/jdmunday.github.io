@@ -19,7 +19,12 @@ Surveillance of pathogens spreading through a population is an essential tool in
 
 ## Context 
 
-We are part of a collaboration in Switzerland that monitors waste water at treatment plants across Switzerland. Samples are collected between 5 and 7 days a week, viral concentrations of SARS-CoV-2, Influenza A and B and RSV are quantified using digital deoplet PCR and amplicons are sequenced using illumina next generation sequncing.
+We are part of a collaboration in Switzerland that monitors wastewater from treatment plants across Switzerland. Samples are collected between 5 and 7 days a week, viral concentrations of SARS-CoV-2, Influenza A and B and RSV are quantified using digital deoplet PCR. Amplicons are also sequenced using illumina next generation sequncing.
 
 ## Research 
+The focus of my research has been on how to optimise the collection of data and estimation of concentration to provide public health insights. 
+
+Firstly, with collaborators at Eawag, UniSante and FOPH we have evaluated the ability of different sampling strategies to inform trends in SARS-CoV-2 prevalence across switzerland and how this translates to reported cases and hospitalisations.
+
+Secondly, with collaborators from Eawag we investigate degredation of viral samples between sampling and testing - which can affect the quality of concentration estimates, highlighting the importance of testing samples promptly - especially when concentrations are low. 
 
