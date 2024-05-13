@@ -36,5 +36,5 @@ We also applied the method to study Measles in the Netherlands, where unvaccinat
 
 ![alt text](../Figures/MeaslesOutbreaks.jpg "Title") 
 <br>
-
+*Mean number of cases across 1000 simulated in each PC4 region with a reporting rate of 10% (from estimates in literature). A) the baseline model: School data network with school level uptake., B) Alternative model 1: School data network with PC4 level uptake, C) Alternative model 2: Spatial network with school level uptake D) weighted sensitivity and specificity and E) unweighted sensitivity and specificity of the baseline and alternative network models.*
 
