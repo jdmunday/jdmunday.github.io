@@ -45,10 +45,13 @@ Epidemics have a profound impact on health and society, control measures can als
 1. Inequalities in infectious disease & vaccination (Oral presentation) *IDDconf 2017: A Conference on Infectious Disease Dynamics*, Ambleside, UK
 1. How does vaccination impact observable inequalities in infectious diseases? (Oral presentation) *Public Health England, Research and Epidemiology Conference 2017*, Warwick, UK
 
-# Summaries
+# Posts
 
+### Summary of work using school-household network models
 [![](/Figures/NetworkSchematic.jpg 'School Networks')](/schoolhhnetworks)
 
+### Summary of work on wastewater based epidemiology
+[![](/Figures/wastewater.jpg 'Wastewater')](/wastewater)
 
 
 
