@@ -14,7 +14,10 @@ externalLink: false
 ---
 
 ## Background
-To evaluate the risk of transmission between school populations, we constructed a network of schools as linked through households. Each edge on the network is weighted by the number of unique contacts between schools that occur through shared households, for example: In household x, 2 children attend school A and 2 children attend school B, there are therefore 4 unique contacts between school A and school B. The sum of all households that form such a link gives the total number of unique contacts between schools A and B, we denote this as $C_{ij}$. 
+School-aged children often play a significant and destinct role in epidemics. Historical contact surveys have revealed that up to 90% of child-to-child contact events occur in either school or home settings, demonstrating the key role og these contexts to transmission dynamics. We made use of this to construct a framework that uses routinely collected school census data to quantify the connectivity between schools and to understand how infections spread through school-age populations. 
+
+## The Framework
+We constructed a network of schools as linked through households. Each edge on the network is weighted by the number of unique contacts between schools that occur through shared households, for example: In household x, 2 children attend school A and 2 children attend school B, there are therefore 4 unique contacts between school A and school B. The sum of all households that form such a link gives the total number of unique contacts between schools A and B, we denote this as $C_{ij}$. 
 
 ![alt text](../Figures/NetworkSchematic.jpg "Title")
 <br>
