@@ -34,9 +34,9 @@ Epidemics have a profound impact on health and society, control measures can als
 ## Scheduled
 1. Forecasting the spatial spread of an Ebola epidemic in real-time: comparing predictions of mathematical models and experts (Oral Presentation) *GEOMED2024*, Hasselt, BE
 1. Spatial modelling of viral loads in wastewater: an evaluation of sampling strategies for comprehensive surveillence programs (Oral Presentation) *GEOMED2024*, Hasselt, BE
-1. Vaccine mediated time-varying school and household contact networks explain intervals between measles outbreaks in the Netherlands (Oral Presentation) *NetSci2024*, Quebec City, CA
 
 ## Past
+1. Vaccine mediated time-varying school and household contact networks explain intervals between measles outbreaks in the Netherlands (Oral Presentation) *NetSci2024 - International conference on network science*, Quebec City, CA
 1. Evaluating the use of cross-sectional infection and antibody positivity with social contact data to produce age-specific forecasts of SARS-CoV-2 incidence (Oral Presentation) *ECMTB 2022 - 12th European Conference on Mathematical and Theoretical Biology*, Heidelberg, DE
 1. Reflections on using community data to evaluate the potential wider impact of school-based SARS-CoV-2 transmission (Oral presentation) *Newton Gateway Institute for Mathematics (2022), Symposium: Controlling COVID-19 in Schools: Lessons Learned and Open Questions*, Remote
 1. Implications of the school-household network structure on SARS-CoV-2 transmission under different school reopening strategies in England (Oral presentation) *Networks 2021*, Remote 
