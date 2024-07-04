@@ -9,10 +9,10 @@ Epidemics have a profound impact on health and society, control measures can als
 # Pre-prints
 1. **Munday JD**, Rosello A, Edmunds WJ, Funk S. (2024). Forecasting the spatial spread of an Ebola epidemic in real-time: comparing predictions of mathematical models and experts. *MedRxiv*, 2024-03. 
 1. **Munday JD**, Atkins KE, Klinkenberg D, Meurs M, Fleur E, Hahné SJM, Wallinga J, van Hoek AJ. (2024). Anticipating the risk and spatial spread of measles in populations with high MMR uptake: using school-household networks to understand the 2013-2014 outbreak in the Netherlands. *MedRxiv*, 2024-02.
-1. Jarvis CI, Coletti P, Backer JA, **Munday JD**, Faes C, Beutels P, et al. (2023). Social contact patterns following the COVID-19 pandemic: a snapshot of post-pandemic behaviour from the CoMix study. *MedRxiv*.
 1. Funk S, Abbott S, Atkins BD, Baguelin M, ... **Munday JD**,  et al. (2020). Short-term forecasts to inform the response to the Covid-19 epidemic in the UK. *MedRxiv*, 2020-11.
 
 # Publications
+1. Jarvis CI, Coletti P, Backer JA, **Munday JD**, Faes C, Beutels P, et al. (2024). Social contact patterns following the COVID-19 pandemic: a snapshot of post-pandemic behaviour from the CoMix study. *Epidemics*, 48, 100778.
 1. **Munday JD**, Abbott S, Meakin S, Funk S. (2023). Evaluating the use of social contact data to produce age-specific short-term forecasts of SARS-CoV-2 incidence in England. *PLoS Computational Biology*, 19(9), e1011453.
 1. van Iersel SCJL, Backer JA, van Gaalen RD, Andeweg SP, **Munday JD**, Wallinga J, van Hoek AJ, et al. (2023). Empirical evidence of transmission over a school-household network for SARS-CoV-2; exploration of transmission pairs stratified by primary and secondary school. *Epidemics*, 43, 100675.
 1. Meakin S, Abbott S, Bosse NI, **Munday JD**, Gruson H, Hellewell J, Sherratt K, Funk S. (2022). Comparative assessment of methods for short-term forecasts of COVID-19 hospital admissions in England at the local level. *BMC Medicine*, 20(1), 86.
