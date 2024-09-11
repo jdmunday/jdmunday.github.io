@@ -32,7 +32,9 @@ Epidemics have a profound impact on health and society, control measures can als
 
 # Conferences
 
-%% ## Scheduled
+<!--- 
+## Scheduled 
+-->
 
 ## Past
 1. Forecasting the spatial spread of an Ebola epidemic in real-time: comparing predictions of mathematical models and experts (Oral Presentation) *GEOMED2024*, Hasselt, BE
