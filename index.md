@@ -9,7 +9,6 @@ Epidemics have a profound impact on health and society, control measures can als
 # Pre-prints
 1. Quilty BJ, Chapman LAC, **Munday JD**, Wong KLM, Gimma A, Pickering S, et al. (2024) Disentangling the drivers of heterogeneity in SARS-CoV-2 transmission from data on viral load and daily contact rates. *MedRxiv*, 2024-08.
 1. **Munday JD**, Rosello A, Edmunds WJ, Funk S. (2024). Forecasting the spatial spread of an Ebola epidemic in real-time: comparing predictions of mathematical models and experts. *MedRxiv*, 2024-03. 
-1. **Munday JD**, Atkins KE, Klinkenberg D, Meurs M, Fleur E, Hahné SJM, Wallinga J, van Hoek AJ. (2024). Anticipating the risk and spatial spread of measles in populations with high MMR uptake: using school-household networks to understand the 2013-2014 outbreak in the Netherlands. *MedRxiv*, 2024-02.
 1. Funk S, Abbott S, Atkins BD, Baguelin M, ... **Munday JD**,  et al. (2020). Short-term forecasts to inform the response to the Covid-19 epidemic in the UK. *MedRxiv*, 2020-11.
 
 # Publications
