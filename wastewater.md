@@ -17,6 +17,10 @@ externalLink: false
 
 Surveillance of pathogens spreading through a population is an essential tool in epidemic response and public health resource planning. Historically programes have used reported cases, hospitalisations and various sentinel systems to track infection prevalence and transmission in the population. For many infections, virus is shed in feces. In recent years protocols have been developed to quantify the concentration of viral RNA within sewage for a growing number of pathogens. By monitoring municipal wastewater systems it is possible to track fluctuations in prevalence of disease in the population served by the system. 
 
+![alt text](../Figures/map_and_concs.pdf "Title")
+
+*Wastewater treatment plant catchments in swizerland and viral concentrations measured in each of them for SARS-CoV-2 (SN1), Influenza A and B and RSV*
+
 ## Context 
 
 We are part of a collaboration in Switzerland that monitors wastewater from treatment plants across Switzerland. Samples are collected between 5 and 7 days a week, viral concentrations of SARS-CoV-2, Influenza A and B and RSV are quantified using digital deoplet PCR. Amplicons are also sequenced using illumina next generation sequncing.
