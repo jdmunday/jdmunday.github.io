@@ -34,3 +34,6 @@ Secondly, with collaborators from Eawag we investigate degredation of viral samp
 
 ![alt text](../Figures/marginal_summary.png "Title")
 
+*Inferred delay effects for SARS-CoV-2 (SN2), Influenza A and B and RSV in six treatment plants in switzerland during the 2022-2023 and 2023-2024 seasons.*
+
+We estiate that the reduction in viral concentrations associated with degradation between collection and sampling is sufficient that a substantial number of concentration estimates are brought below the "limit of detection", a threshold where the probability of sample loss becomes unacceptably high.  
