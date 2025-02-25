@@ -43,7 +43,7 @@ We also applied the method to study Measles in the Netherlands, where unvaccinat
 
 By projecting school immunity profiles we constructed transmission networks for the years follwing the major outbreak in 2013-14. We identified that the network sustains a sharp change in connectivity as children born since the previous outbreak transfer to secondary school. This is due to take place in 2025 and 2026, we anticipate that this could mean a substantial increase in the risk of large Measles outbreaks in the Netherlands. (Manuscript in preparation)
 
-![alt text](../Figures/changing_connectivity.png.jpg "Title") 
+![alt text](../Figures/changing_connectivity.png "Title") 
 <br>
 *The evolution of measles outbreak risk on the school-household network in years since 2018. A) The spectral radius of the transmission probability network for each year. B) The proportion of outbreaks seeded in orthodox protestant schools that exceed final size thresholds of 1 to 125 schools. C) The distribution of the number of children infected in outbreaks simulated on the network, seeded in orthodox protestant schools. D) Graph visualisations showing examples of largest out-components (outbreaks) for individual edge percolation instances for years 2023 to 2028, blue vertices show primary schools, red vertices show secondary schools (geographically accurate).*
 
