@@ -7,6 +7,7 @@ Epidemics have a profound impact on health and society, control measures can als
 **PhD Candidate** Department of Infectious Disease Epidemiology, London School of Hygiene and Tropical Medicine (2016 - 2020)
 
 # Pre-prints
+1. Riou J, Fesser A, Wagner M, Schneider K ... **Munday JD** (2025) Determinants and spatio-temporal structure of variability in wastewater SARS-CoV-2 viral load measurements in Switzerland: key insights for future surveillance efforts. *medRxiv*. 2025. p. 2025-05.
 1. Quilty BJ, Chapman LAC, **Munday JD**, Wong KLM, Gimma A, Pickering S, et al. (2024) Disentangling the drivers of heterogeneity in SARS-CoV-2 transmission from data on viral load and daily contact rates. *MedRxiv*, 2024-08.
 1. **Munday JD**, Rosello A, Edmunds WJ, Funk S. (2024). Forecasting the spatial spread of an Ebola epidemic in real-time: comparing predictions of mathematical models and experts. *MedRxiv*, 2024-03. 
 1. Funk S, Abbott S, Atkins BD, Baguelin M, ... **Munday JD**,  et al. (2020). Short-term forecasts to inform the response to the Covid-19 epidemic in the UK. *MedRxiv*, 2020-11.
