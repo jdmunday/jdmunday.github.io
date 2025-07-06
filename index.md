@@ -2,7 +2,8 @@
 Epidemics have a profound impact on health and society, control measures can also severely disrupt daily life. Improving epidemic response requires better understanding of transmission and dynamics in various populations. In my research I principally focus on how spatial and social factors contribute to infectious disease dynamics and how these factors should be considered when responding to outbreaks. My current research activities include using mathematical and statistical models to improve situational awareness during epidemics through real-time analysis and understanding how infections spread between school-aged children in different contexts. 
 
 # Contexts 
-**Postdoctoral Researcher** Department of Biosystems Science and Engineering (D-BSSE) ETH Zürich (2023 - Present) \
+**Postdoctoral Researcher** Department of Epidemiology and Public Health, Swiss Tropical and Public Health Institute (2025 - Present) \
+**Postdoctoral Researcher** Department of Biosystems Science and Engineering (D-BSSE) ETH Zürich (2023 - 2025) \
 **Research Fellow** Department of Infectious Disease Epidemiology, London School of Hygiene and Tropical Medicine (2020 - 2022) \
 **PhD Candidate** Department of Infectious Disease Epidemiology, London School of Hygiene and Tropical Medicine (2016 - 2020)
 
