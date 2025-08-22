@@ -17,6 +17,7 @@ Epidemics have a profound impact on health and society, control measures can als
 1. Funk S, Abbott S, Atkins BD, Baguelin M, ... **Munday JD**,  et al. (2020). Short-term forecasts to inform the response to the Covid-19 epidemic in the UK. *MedRxiv*, 2020-11.
 
 # Publications
+1. O’Reilly KM, Wade MJ, Farkas K, Amman F, Lison A, **Munday JD**, et al. (2025) Analysis insights to support the use of wastewater and environmental surveillance data for infectious diseases and pandemic preparedness. Epidemics. 2025;51: 100825.
 1. **Munday JD**, Atkins KE, Klinkenberg D, Meurs M, Fleur E, Hahné SJM, Wallinga J, van Hoek AJ. (2024). Estimating the risk and spatial spread of measles in populations with high MMR uptake: using school-household networks to understand the 2013-2014 outbreak in the Netherlands. *PLoS medicine*, 21(10), e1004466.
 1. Jarvis CI, Coletti P, Backer JA, **Munday JD**, Faes C, Beutels P, et al. (2024). Social contact patterns following the COVID-19 pandemic: a snapshot of post-pandemic behaviour from the CoMix study. *Epidemics*, 48, 100778.
 1. **Munday JD**, Abbott S, Meakin S, Funk S. (2023). Evaluating the use of social contact data to produce age-specific short-term forecasts of SARS-CoV-2 incidence in England. *PLoS Computational Biology*, 19(9), e1011453.
