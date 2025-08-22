@@ -8,7 +8,7 @@ Epidemics have a profound impact on health and society, control measures can als
 **PhD Candidate** Department of Infectious Disease Epidemiology, London School of Hygiene and Tropical Medicine (2016 - 2020)
 
 # Pre-prints
-1. Banholzer N<sup>&#8224;</sup>, **Munday JD**<sup>&#8224;</sup>, Jent P, Bittel P, Dall’Amico L, Furrer L, et al. (2025) The relative contribution of close-proximity contacts, shared classroom exposure and indoor air quality to respiratory virus transmission in schools. medRxiv. . p. 2025.08
+1. Banholzer N<sup>&#8224;</sup>, **Munday JD**<sup>&#8224;</sup>, Jent P, Bittel P, Dall’Amico L, Furrer L, et al. (2025) The relative contribution of close-proximity contacts, shared classroom exposure and indoor air quality to respiratory virus transmission in schools. *medRxiv*. . p. 2025.08
 1. **Munday JD**, de Korne-Elenbaas J, Gan C, Lison A, Riou J, Ort C, et al. (2025) Post-sampling degradation of viral RNA in wastewater impacts the quality of PCR-based concentration estimates. *bioRxiv*. p. 2025-06.
 1. Riou J, Fesser A, Wagner M, Schneider K ... **Munday JD** (2025) Determinants and spatio-temporal structure of variability in wastewater SARS-CoV-2 viral load measurements in Switzerland: key insights for future surveillance efforts. *medRxiv*. p. 2025-05.
 1. Banholzer N, Kronthaler D, Bittel P, Furrer L, **Munday JD**, Egger M, et al. (2025) Absences, symptoms and respiratory viruses in a Swiss school: Longitudinal study with serial saliva sampling. Authorea Inc. 2025.
@@ -17,7 +17,7 @@ Epidemics have a profound impact on health and society, control measures can als
 1. Funk S, Abbott S, Atkins BD, Baguelin M, ... **Munday JD**,  et al. (2020). Short-term forecasts to inform the response to the Covid-19 epidemic in the UK. *MedRxiv*, 2020-11.
 
 # Publications
-1. O’Reilly KM, Wade MJ, Farkas K, Amman F, Lison A, **Munday JD**, et al. (2025) Analysis insights to support the use of wastewater and environmental surveillance data for infectious diseases and pandemic preparedness. Epidemics. 2025;51: 100825.
+1. O’Reilly KM, Wade MJ, Farkas K, Amman F, Lison A, **Munday JD**, et al. (2025) Analysis insights to support the use of wastewater and environmental surveillance data for infectious diseases and pandemic preparedness. *Epidemics*. 2025;51: 100825.
 1. **Munday JD**, Atkins KE, Klinkenberg D, Meurs M, Fleur E, Hahné SJM, Wallinga J, van Hoek AJ. (2024). Estimating the risk and spatial spread of measles in populations with high MMR uptake: using school-household networks to understand the 2013-2014 outbreak in the Netherlands. *PLoS medicine*, 21(10), e1004466.
 1. Jarvis CI, Coletti P, Backer JA, **Munday JD**, Faes C, Beutels P, et al. (2024). Social contact patterns following the COVID-19 pandemic: a snapshot of post-pandemic behaviour from the CoMix study. *Epidemics*, 48, 100778.
 1. **Munday JD**, Abbott S, Meakin S, Funk S. (2023). Evaluating the use of social contact data to produce age-specific short-term forecasts of SARS-CoV-2 incidence in England. *PLoS Computational Biology*, 19(9), e1011453.
