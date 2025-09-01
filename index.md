@@ -9,6 +9,7 @@ Epidemics have a profound impact on health and society, control measures can als
 
 # Pre-prints
 1. Banholzer N<sup>&#8224;</sup>, **Munday JD**<sup>&#8224;</sup>, Jent P, Bittel P, Dall’Amico L, Furrer L, et al. (2025) The relative contribution of close-proximity contacts, shared classroom exposure and indoor air quality to respiratory virus transmission in schools. *medRxiv*. . p. 2025.08
+1. **Munday JD**. (2025) Projected sudden step-wise increase in risk of large measles outbreaks in the Netherlands as susceptible children enter secondary school in 2025/26. medRxiv. 2025.
 1. **Munday JD**, de Korne-Elenbaas J, Gan C, Lison A, Riou J, Ort C, et al. (2025) Post-sampling degradation of viral RNA in wastewater impacts the quality of PCR-based concentration estimates. *bioRxiv*. p. 2025-06.
 1. Riou J, Fesser A, Wagner M, Schneider K ... **Munday JD** (2025) Determinants and spatio-temporal structure of variability in wastewater SARS-CoV-2 viral load measurements in Switzerland: key insights for future surveillance efforts. *medRxiv*. p. 2025-05.
 1. Banholzer N, Kronthaler D, Bittel P, Furrer L, **Munday JD**, Egger M, et al. (2025) Absences, symptoms and respiratory viruses in a Swiss school: Longitudinal study with serial saliva sampling. Authorea Inc. 2025.
