@@ -13,10 +13,10 @@ Epidemics have a profound impact on health and society, control measures can als
 1. **Munday JD**, de Korne-Elenbaas J, Gan C, Lison A, Riou J, Ort C, et al. (2025) Post-sampling degradation of viral RNA in wastewater impacts the quality of PCR-based concentration estimates. *bioRxiv*. p. 2025-06.
 1. Riou J, Fesser A, Wagner M, Schneider K ... **Munday JD** (2025) Determinants and spatio-temporal structure of variability in wastewater SARS-CoV-2 viral load measurements in Switzerland: key insights for future surveillance efforts. *medRxiv*. p. 2025-05.
 1. Quilty BJ, Chapman LAC, **Munday JD**, Wong KLM, Gimma A, Pickering S, et al. (2024) Disentangling the drivers of heterogeneity in SARS-CoV-2 transmission from data on viral load and daily contact rates. *MedRxiv*, 2024-08.
-1. **Munday JD**<sup>&#8224;</sup>, Rosello A<sup>&#8224;</sup>, Edmunds WJ, Funk S. (2024). Forecasting the spatial spread of an Ebola epidemic in real-time: comparing predictions of mathematical models and experts. *MedRxiv*, 2024-03. 
 1. Funk S, Abbott S, Atkins BD, Baguelin M, ... **Munday JD**,  et al. (2020). Short-term forecasts to inform the response to the Covid-19 epidemic in the UK. *MedRxiv*, 2020-11.
 
 # Publications
+1. **Munday JD**<sup>&#8224;</sup>, Rosello A<sup>&#8224;</sup>, Edmunds WJ, Funk S. (2025). Forecasting the spatial spread of an Ebola epidemic in real time: Comparing predictions of mathematical models and experts. *Elife*. 2025;13. doi:10.7554/elife.98005.3
 1. Banholzer N, Kronthaler D, Bittel P, Furrer L, **Munday JD**, Egger M, et al. (2025) Absences, Symptoms and Respiratory Viruses in a Swiss School: Longitudinal Study With Serial Saliva Sampling. *Influenza and Other Respiratory Viruses*. 2025;19: e70143.
 1. O’Reilly KM, Wade MJ, Farkas K, Amman F, Lison A, **Munday JD**, et al. (2025) Analysis insights to support the use of wastewater and environmental surveillance data for infectious diseases and pandemic preparedness. *Epidemics*. 2025;51: 100825.
 1. **Munday JD**, Atkins KE, Klinkenberg D, Meurs M, Fleur E, Hahné SJM, Wallinga J, van Hoek AJ. (2024). Estimating the risk and spatial spread of measles in populations with high MMR uptake: using school-household networks to understand the 2013-2014 outbreak in the Netherlands. *PLoS medicine*, 21(10), e1004466.
