@@ -15,7 +15,7 @@ Epidemics have a profound impact on health and society, control measures can als
 1. Funk S, Abbott S, Atkins BD, Baguelin M, ... **Munday JD**,  et al. (2020). Short-term forecasts to inform the response to the Covid-19 epidemic in the UK. *MedRxiv*, 2020-11.
 
 # Publications
-1. Munday JD. (2025) Projected increase in risk of large measles outbreaks in the Netherlands as susceptible children enter secondary school in 2025/26. Int J Infect Dis. 2025; 108240.
+1. **Munday JD**. (2025) Projected increase in risk of large measles outbreaks in the Netherlands as susceptible children enter secondary school in 2025/26. Int J Infect Dis. 2025; 108240.
 1. Riou J, Fesser A, Wagner M, Schneider K, Güdel-Krempaska N, Ort C... **Munday JD** (2025) Determinants and spatio-temporal structure of variability in wastewater SARS-CoV-2 viral load measurements in Switzerland: Key insights for future surveillance efforts. PLOS Water. 2025;4: e0000453.
 2. **Munday JD**<sup>&#8224;</sup>, Rosello A<sup>&#8224;</sup>, Edmunds WJ, Funk S. (2025). Forecasting the spatial spread of an Ebola epidemic in real time: Comparing predictions of mathematical models and experts. *Elife*. 2025;13. doi:10.7554/elife.98005.3
 1. Banholzer N, Kronthaler D, Bittel P, Furrer L, **Munday JD**, Egger M, et al. (2025) Absences, Symptoms and Respiratory Viruses in a Swiss School: Longitudinal Study With Serial Saliva Sampling. *Influenza and Other Respiratory Viruses*. 2025;19: e70143.
