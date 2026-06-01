@@ -1,7 +1,8 @@
 # Interests 
-Epidemics have a profound impact on health and society, control measures can also severely disrupt daily life. Improving epidemic response requires better understanding of transmission and dynamics in various populations. In my research I principally focus on how spatial and social factors contribute to infectious disease dynamics and how these factors should be considered when responding to outbreaks. My current research activities include using mathematical and statistical models to improve situational awareness during epidemics through real-time analysis and understanding how infections spread between school-aged children in different contexts. 
+Infectious diseases have a profound impact on health both at individual and societal levels, control measures can also severely disrupt daily life. Improving control interventions requires better understanding of transmission and dynamics in various populations. In my research I principally focus on how spatial, demographic and social factors contribute to infectious disease dynamics and how these factors should be considered when targetting control interventions. 
 
 # Contexts 
+**Principal Scientist** Health Economics and Outcomes Research, MSD (2026-Present)
 **Postdoctoral Researcher** Department of Epidemiology and Public Health, Swiss Tropical and Public Health Institute (2025 - Present) \
 **Postdoctoral Researcher** Department of Biosystems Science and Engineering (D-BSSE) ETH Zürich (2023 - 2025) \
 **Research Fellow** Department of Infectious Disease Epidemiology, London School of Hygiene and Tropical Medicine (2020 - 2022) \
